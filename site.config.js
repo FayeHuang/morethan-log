@@ -6,9 +6,9 @@ const CONFIG = {
     role: "兩個孩子的媽 / 資深工程師",
     bio: "I develop everything using node.",
     email: "faye1821@gmail.com",
-    // linkedin: "morethanmin",
-    // github: "morethanmin",
-    // instagram: "",
+    linkedin: "",
+    github: "",
+    instagram: "",
   },
   projects: [
     {
